@@ -12,8 +12,7 @@ Pod::Spec.new do |spec|
   #
   #  These will help people to find your library, and whilst it
   #  can feel like a chore to fill in it's definitely to your advantage. The
-  #  ary should be tweet-length, and the description more in depth.
-  #
+  #  summary should be tweet-length, and the description more in depth.
 
   spec.name         = "CustomLibrary"
   spec.version      = "0.0.1"
@@ -84,15 +83,7 @@ Pod::Spec.new do |spec|
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
-  #  CocoaPods is smart about how it inclu
-
-
-
-
-
-
-
-source code. For source files
+  #  CocoaPods is smart about how it includes source code. For source files
   #  giving a folder will include any swift, h, m, mm, c & cpp files.
   #  For header files it will include any header in the folder.
   #  Not including the public_header_files will make all headers public.
