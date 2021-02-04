@@ -14,7 +14,7 @@ Pod::Spec.new do |spec|
   #  can feel like a chore to fill in it's definitely to your advantage. The
   #  summary should be tweet-length, and the description more in depth.
 
-  spec.name         = "CustomLibrary"
+  spec.name         = "CustomxxxLibrary"
   spec.version      = "0.0.1"
   spec.summary      = "A custom liabrary."
 
