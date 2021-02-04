@@ -12,12 +12,14 @@ Pod::Spec.new do |spec|
   #
   #  These will help people to find your library, and whilst it
   #  can feel like a chore to fill in it's definitely to your advantage. The
-  #  summary should be tweet-length, and the description more in depth.
+  #  
+  
+  ary should be tweet-length, and the description more in depth.
   #
 
   spec.name         = "CustomLibrary"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of CustomLibrary."
+  spec.summary      = "A custom liabrary."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,9 +27,9 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-                   DESC
+                   This is a custom library
 
-  spec.homepage     = "http://EXAMPLE/CustomLibrary"
+  spec.homepage     = "https://github.com/gao-jx/FirstLibrary.git"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -84,7 +86,15 @@ Pod::Spec.new do |spec|
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
-  #  CocoaPods is smart about how it includes source code. For source files
+  #  CocoaPods is smart about how it inclu
+
+
+
+
+
+
+
+source code. For source files
   #  giving a folder will include any swift, h, m, mm, c & cpp files.
   #  For header files it will include any header in the folder.
   #  Not including the public_header_files will make all headers public.
