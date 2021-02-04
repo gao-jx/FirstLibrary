@@ -58,7 +58,7 @@ Pod::Spec.new do |spec|
   # spec.social_media_url   = "https://twitter.com/Jianxun Gao"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  #
+  #"MIT (example)"
   #  If this Pod runs only on iOS or OS X, then specify the platform and
   #  the deployment target. You can optionally include the target after the platform.
   #
