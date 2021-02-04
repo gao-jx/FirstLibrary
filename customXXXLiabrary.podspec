@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "customXXXLiabrary"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "A liabrary."
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
           A liabrry anmee 
                    DESC
 
-  spec.homepage     = "http://ame/customXXXLiabrary"
+  spec.homepage     = "https://github.com/gao-jx/FirstLibrary"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/gao-jx/FirstLibrary", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/gao-jx/FirstLibrary.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
